@@ -1,1 +1,0 @@
-# flipkart-page-using-React-Js
